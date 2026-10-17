@@ -30,6 +30,11 @@ Batch-write **existing translations** into PSD/PSB text layers, keep every text 
 
 Windows ＋ 本机已安装的 Adobe Photoshop。当前只支持这一种组合。图像文字识别（OCR）未接入当前产品流程，本工作台处理的对象是译文表与文字图层。
 
+
+## 交付检查清单
+
+开工前自查与交付前复核用的可复查清单，见 [多语言设计稿交付检查清单（CHECKLIST.md）](./CHECKLIST.md)。里面包含图层体检、译文表、对账、执行三条硬规则、交付三件套，以及 Photoshop 查找替换／变量数据组／jsx 脚本／表格化插件／图片翻译这几类替代做法的能力边界对照。
+
 ## 状态与联系
 
 产品处于内测阶段（邀请制）：在官网 [tuyigf.com](https://tuyigf.com) 提交申请，作者会逐一回复；有真实多语言改图项目、愿意反馈问题的用户优先。邮箱 [tuyi@tuyigf.com](mailto:tuyi@tuyigf.com)。
